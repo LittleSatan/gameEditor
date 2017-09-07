@@ -1,0 +1,22 @@
+{
+  "name": "gameeditor",
+  "version": "0.0.1",
+  "description": "stupid editor for some games? idk nothing about programming. im useless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleSatan/gameEditor.git"
+  },
+  "author": "marissaChan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LittleSatan/gameEditor/issues"
+  },
+  "homepage": "https://github.com/LittleSatan/gameEditor#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
